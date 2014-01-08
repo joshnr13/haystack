@@ -1,9 +1,8 @@
-haystack
-========
+Haystack Models and Datasets
+============================
 
 An R package of reference classes to manage the datasets, models, and 
 processes of behavioral model development.
-
 
  These classes are designed to improve the efficiency of behavioral modeling 
  using R in financial institutions.  I wrote these classes to improve the
@@ -26,3 +25,5 @@ processes of behavioral model development.
  These classes utilize the recently developed reference classes.
 
  For an example of how I am using this, see ./examples/iris
+
+ 2014-01-07 Bill West
