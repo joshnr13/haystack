@@ -1,5 +1,8 @@
-Haystack Models and Datasets
-============================
+Haystack
+========
+
+Models, Queries, and Datasets
+----------------------------
 
 An R package of reference classes to manage the datasets, models, and 
 processes of behavioral model development.
