@@ -15,7 +15,6 @@
 #  along with this program.  If not, see <http://www.gnu.org/licenses/>.
 ###############################################################################
 
-
 cat("Haystack-0_04: 2014-01-07\n")
 cat("Loading required packages...")
 require(lubridate)
